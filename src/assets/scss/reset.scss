@@ -1,0 +1,34 @@
+.container,.container1{
+    width:1126px;
+    margin-right:auto;
+    margin-left: auto;
+     
+    // background-color:#ececec;
+}
+.container{
+    margin-bottom: 70px;
+}
+body, dl, dt, dd,  li, pre, form, fieldset, p, blockquote, th, td {
+    margin:0;
+    padding:0;
+    outline:none;
+}
+html,body{
+    font-family:Helvetica Neue,Helvetica,Arial,Microsoft Yahei,Hiragino Sans GB,Heiti SC,WenQuanYi Micro Hei,sans-serif;
+    color: #333333;
+    background-color:#ffffff ;
+    min-width:1226px;
+    font-size: 13px;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style: none;
+}
+input{
+    font:normal;
+}
+input:focus,a:focus{
+    outline:none;
+}
